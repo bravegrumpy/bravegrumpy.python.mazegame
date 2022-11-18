@@ -7,7 +7,8 @@ Allow it to be extendable with other maze algorithms.
 ### 2022
 #### November 18<sup>th</sup>
 - [ ] creating tkinter implementiation
-- [x] fixing git problems
+- [ ] move current app into archive. <!--TODO this--> 
+- - [x] fixing git problems
 ### Archive:
 - [x] Implement multiple files with pygame
   - [x] including class structure for calling colors
