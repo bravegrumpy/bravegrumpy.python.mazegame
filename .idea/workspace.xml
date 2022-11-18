@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d8670a6-bbcf-459d-93c0-0529beab7c89" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/mazeEnv/Lib/site-packages/colours-0.3-py3.10.egg-info/PKG-INFO" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mazeEnv/Lib/site-packages/colours-0.3-py3.10.egg-info/SOURCES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mazeEnv/Lib/site-packages/colours-0.3-py3.10.egg-info/dependency_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mazeEnv/Lib/site-packages/colours-0.3-py3.10.egg-info/installed-files.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mazeEnv/Lib/site-packages/colours-0.3-py3.10.egg-info/top_level.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mazeEnv/Lib/site-packages/colours/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mazeGame/app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mazeGame/app/pygame_boilerplate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mazeGame/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/mazeGame/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/robin/PycharmProjects/bravegrumpy.python.mazegame/archive",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/robin/PycharmProjects/bravegrumpy.python.mazegame/archive&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "Python"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\robin\PycharmProjects\bravegrumpy.python.mazegame\archive" />
