@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\robin\PycharmProjects\bravegrumpy.python.mazegame\mazeEnv"
+VIRTUAL_ENV="C:\Users\robin\Documents\Coding\Python_Experimentation\bravegrumpy.python.mazegame\mazeEnv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
