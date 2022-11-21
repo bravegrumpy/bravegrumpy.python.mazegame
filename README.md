@@ -5,9 +5,17 @@ Allow it to be extendable with other maze algorithms.
 
 ## Change-log
 ### 2022
+#### November 21<sup>st</sup>
+- [ ] __TODO__: change color names back to original names
+- [x] re-created Colors class
+  - [x] experimented with colors 
+  - [x] renamed colors to show how mixes work
+- [x] displayed color class in tkinter window
+- [x] added cryptography folder so that I can experiment
 #### November 18<sup>th</sup>
-- [ ] creating tkinter implementiation
-- [x] fixing git problems
+- [x] creating tkinter implementation
+- [x] move current app into archive.  
+- - [x] fixing git problems
 ### Archive:
 - [x] Implement multiple files with pygame
   - [x] including class structure for calling colors
