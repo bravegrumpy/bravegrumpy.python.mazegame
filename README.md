@@ -5,8 +5,9 @@ Allow it to be extendable with other maze algorithms.
 
 ## Change-log
 ### 2022
+#### November 23<sup>rd</sup>
 #### November 21<sup>st</sup>
-- [ ] __TODO__: change color names back to original names
+- [x] __TODO__: change color names back to original names
 - [x] re-created Colors class
   - [x] experimented with colors 
   - [x] renamed colors to show how mixes work
