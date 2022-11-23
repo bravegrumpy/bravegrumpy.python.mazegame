@@ -5,8 +5,13 @@ Allow it to be extendable with other maze algorithms.
 
 ## Change-log
 ### 2022
+#### November 23<sup>rd</sup>
+- [x] adding in ttk styles
+- [ ] obtain data from widget
+- [x] simplified colors 
+- [x] implemented a canvas in tkinter
 #### November 21<sup>st</sup>
-- [ ] __TODO__: change color names back to original names
+- [X] change color names back to original names
 - [x] re-created Colors class
   - [x] experimented with colors 
   - [x] renamed colors to show how mixes work
