@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d8670a6-bbcf-459d-93c0-0529beab7c89" name="Changes" comment="added cryptography folder, to see how that works,&#10;edited colors class,&#10;displayed colors in main.py">
-      <change afterPath="$PROJECT_DIR$/mazeGame/D2022_11_18_tkinter_implementation/app/draw_maze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mazeGame/D2022_11_23_Themes/app/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mazeGame/D2022_11_18_tkinter_implementation/app/colors.py" beforeDir="false" afterPath="$PROJECT_DIR$/mazeGame/D2022_11_18_tkinter_implementation/app/colors.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mazeGame/D2022_11_18_tkinter_implementation/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/mazeGame/D2022_11_18_tkinter_implementation/app/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="2d8670a6-bbcf-459d-93c0-0529beab7c89" name="Changes" comment="added cryptography folder, to see how that works,&#10;edited colors class,&#10;displayed colors in main.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +155,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="patch04-local-edits" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
