@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d8670a6-bbcf-459d-93c0-0529beab7c89" name="Changes" comment="added cryptography folder, to see how that works,&#10;edited colors class,&#10;displayed colors in main.py" />
+    <list default="true" id="2d8670a6-bbcf-459d-93c0-0529beab7c89" name="Changes" comment="added cryptography folder, to see how that works,&#10;edited colors class,&#10;displayed colors in main.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +41,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+ity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/robin/Documents/Coding/Python_Experimentation/bravegrumpy.python.mazegame/archive&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
@@ -181,6 +184,7 @@
     <MESSAGE value="changing README file to show current progress" />
     <MESSAGE value="changing README file to show current progress 02" />
     <MESSAGE value="added cryptography folder, to see how that works,&#10;edited colors class,&#10;displayed colors in main.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added cryptography folder, to see how that works,&#10;edited colors class,&#10;displayed colors in main.py" />
+    <MESSAGE value="fixing colors class&#10;adding in functionset for tkinter&#10;edititing tkinter implementation." />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing colors class&#10;adding in functionset for tkinter&#10;edititing tkinter implementation." />
   </component>
 </project>
