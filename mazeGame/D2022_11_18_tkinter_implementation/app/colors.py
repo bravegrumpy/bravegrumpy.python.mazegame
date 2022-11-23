@@ -1,33 +1,12 @@
 class Colors: # TODO reduce colors back to RYGCBMKW, and add in FOREST and PURPLE
-    R = (255, 0, 0)
-    RRY = (255, 63, 0)
-    RY = (255, 127, 0)
-    RYY = (255, 191, 0)
-    Y = (255, 255, 0)
-    YYG = (191, 255, 0)
-    YG = (127, 255, 0)
-    YGG = (63, 255, 0)
-    G = (0, 255, 0)
-    GGC = (0, 255, 63)
-    GC = (0, 255, 127)
-    GCC = (0, 255, 191)
-    C = (0, 255, 255)
-    CCB = (0, 191, 255)
-    CB = (0, 127, 255)
-    CBB = (0, 63, 255)
-    B = (0, 0, 255)
-    BBM = (63, 0, 255)
-    BM = (127, 0, 255)
-    BMM = (191, 0, 255)
-    M = (255, 0, 255)
-    MMR = (255, 0, 191)
-    MR = (255, 0, 127)
-    MRR = (255, 0, 63)
-    W = (255, 255, 255)
-    WWK = (191, 191, 191)
-    WK = (127, 127, 127)
-    WKK = (63, 63, 63)
-    K = (0, 0, 0)
+    BLACK = (0, 0, 0)
+    RED = (255, 0, 0)
+    YELLOW = (255, 255, 0)
+    GREEN = (0, 255, 0)
+    CYAN = (0, 255, 255)
+    BLUE = (0, 0, 255)
+    MAGENTA = (255, 0, 255)
+    WHITE = (255, 255, 255)
 
     def __init__(self):
         pass
@@ -35,16 +14,8 @@ class Colors: # TODO reduce colors back to RYGCBMKW, and add in FOREST and PURPL
     def show(self):
         return self
 
-    def get_all_clrs(self): #TODO simplify
-        K = [self.W, self.WWK, self.WK, self.WKK, self.K]
-        R = [self.R, self.RRY, self.RY, self.RYY]
-        Y = [self.Y, self.YYG, self.YG, self.YGG]
-        G = [self.G, self.GGC, self.GC, self.GCC]
-        C = [self.C, self.CCB, self.CB, self.CBB]
-        B = [self.B, self.BBM, self.BM, self.BMM]
-        M = [self.M, self.MMR, self.MR, self.MRR]
-
-        return K + R + Y + G + C + B + M
+    def get_all_clrs(self):
+        return [self.BLACK, self.RED , self.YELLOW , self.GREEN , self.CYAN , self.BLUE , self.MAGENTA , self.WHITE]
 
     def rgb2dec(self, clr):
         return tuple(item / 255 for item in clr)
