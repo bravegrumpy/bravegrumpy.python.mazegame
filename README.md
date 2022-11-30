@@ -6,6 +6,7 @@ Allow it to be extendable with other maze algorithms.
 ## Change-log
 ### 2022
 #### November 23<sup>rd</sup>
+- [ ] adding in example class implementing ttk styles
 - [x] adding in ttk styles
 - [ ] obtain data from widget
 - [x] simplified colors 
