@@ -24,7 +24,7 @@ MAGENTA = (255, 0, 255)
 pygame.init()
 
 # Set the width and height of the screen [width, height]
-grid_size = int(input("Enter desired grid size") or 25)
+grid_size = int(input("Enter desired grid size:\n") or 25)
 pxls = grid_size * 25
 size = (pxls, pxls)
 screen = pygame.display.set_mode(size)
